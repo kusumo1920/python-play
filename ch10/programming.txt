@@ -1,0 +1,4 @@
+I love programming.
+How about you?
+Myself, I like to use Python as primary programming language.
+The syntax, concepts & everything under the hood, it's just amazing!
